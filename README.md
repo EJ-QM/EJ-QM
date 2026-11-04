@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is my personal coding hub account :)
 
 <!--
 **EJ-QM/EJ-QM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
